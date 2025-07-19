@@ -2,6 +2,8 @@
 
 一个基于HTML5、CSS3和JavaScript开发的经典俄罗斯方块游戏。
 
+**[English Documentation](README_EN.md) | 中文文档**
+
 ## 🎮 游戏特性
 
 ### 核心功能
